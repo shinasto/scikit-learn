@@ -1,4 +1,4 @@
-time reqCnt resCnt actCnt
+time req res act
 00:00:00 req=2 res=22 activeTX=2
 00:00:02 req=1 res=1 activeTX=2
 00:00:03 req=0 res=3 activeTX=2
